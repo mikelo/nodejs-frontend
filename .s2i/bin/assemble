@@ -1,0 +1,4 @@
+#!/bin/bash
+npm cache clean --force
+/usr/libexec/s2i/assemble
+
